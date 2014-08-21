@@ -2,4 +2,4 @@
 
 var name: String
 println(name)
-// ""
+// error occurs
